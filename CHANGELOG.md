@@ -1,3 +1,2 @@
-## [0.0.1] - TODO: Add release date.
-
-* TODO: Describe initial release.
+# [1.0.0] - 25.05.2019
+- Initial release of the library
