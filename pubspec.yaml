@@ -1,8 +1,8 @@
 name: animated_card_switcher
 description: Animated card switcher
 version: 1.0.0
-author: obiwanzenobi
-homepage: github.com/obiwanzenobi
+author: obiwanzenobi <wojtek.warwas@gmail.com>
+homepage: https://github.com/obiwanzenobi/animated-card-switcher
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
